@@ -76,78 +76,53 @@
 ---
 
 ---
+---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NexSigma&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NexSigma&theme=tokyonight"
-    alt="Top Languages"
-  />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NexSigma&theme=tokyonight" alt="GitHub Stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NexSigma&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NexSigma&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
-  />
+<img width="70%" src="https://streak-stats.demolab.com?user=NexSigma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📈 GitHub Profile Summary
+## 📈 GitHub Profile Summary
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexSigma&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexSigma&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NexSigma&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NexSigma&theme=tokyo-night&hide_border=true&area=true&custom_title=NexSigma%27s%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NexSigma&theme=tokyonight"
-    alt="Most Used Languages"
-  />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NexSigma&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
 
-# ⏱️ Productive Time
+## ⏱️ Productive Time
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NexSigma&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NexSigma&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
-
-<p align="center">
-  <b>Thanks for visiting my GitHub Profile! 🚀</b>
-</p>
